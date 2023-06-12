@@ -2,5 +2,6 @@
 
 • SQL 使用 function
 IF、COUNT、JOIN 、GROUP BY、ORDER BY、WHERE、LIKE
+
 • Python 使用 function
 import、read、for loops、if-else、iterrows
